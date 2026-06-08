@@ -1,0 +1,47 @@
+---------------------------------------------------
+                FARHANA FAIZA
+           Computer Science Student
+---------------------------------------------------
+
+Home | Skills | Projects | Contact
+
+---------------------------------------------------
+ABOUT ME
+---------------------------------------------------
+I am a passionate CSE student interested in
+Web Development, Networking and DSP.
+
+---------------------------------------------------
+TECHNICAL SKILLS
+---------------------------------------------------
+• HTML & CSS
+• C Programming
+• Python
+• 8086 Assembly Language
+• MATLAB
+
+---------------------------------------------------
+PROJECTS
+---------------------------------------------------
+
+[ Student Management System ]
+Developed using C language.
+
+[ Audio Volume Control System ]
+Designed using MATLAB Simulink.
+
+---------------------------------------------------
+ACHIEVEMENTS & INTERESTS
+---------------------------------------------------
+Interested in photography, technology blogs,
+problem solving and programming contests.
+
+---------------------------------------------------
+CONTACT
+---------------------------------------------------
+Email: farhana@example.com
+GitHub: github.com/farhana
+
+---------------------------------------------------
+© 2026 My Portfolio
+---------------------------------------------------
